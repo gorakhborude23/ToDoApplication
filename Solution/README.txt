@@ -1,6 +1,3 @@
-# ToDoApplication
-Task Management Application to User
-
 Open the TestReport folder for all to see API validation , unit test and UI validation reports.
 
 I have created mock data with three users and assigned task to each of them. 
@@ -18,4 +15,3 @@ Close all open browser windows before running it. port 3000 should be available.
 
 Thank You,
 Gorakh
-

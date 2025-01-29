@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\InterviewPreparation\\Company\\Becu\\FinalSolution\\BackendWebAPI\\TaskWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F257ADA0-6526-4D77-A93D-0F963DA579EC}|TaskWebApi\\TaskWebApi.csproj|c:\\interviewpreparation\\company\\becu\\finalsolution\\backendwebapi\\taskwebapi\\taskwebapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F257ADA0-6526-4D77-A93D-0F963DA579EC}|TaskWebApi\\TaskWebApi.csproj|solutionrelative:taskwebapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F257ADA0-6526-4D77-A93D-0F963DA579EC}|TaskWebApi\\TaskWebApi.csproj|c:\\interviewpreparation\\company\\becu\\finalsolution\\backendwebapi\\taskwebapi\\taskwebapi\\taskwebapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F257ADA0-6526-4D77-A93D-0F963DA579EC}|TaskWebApi\\TaskWebApi.csproj|solutionrelative:taskwebapi\\taskwebapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F257ADA0-6526-4D77-A93D-0F963DA579EC}|TaskWebApi\\TaskWebApi.csproj|c:\\interviewpreparation\\company\\becu\\finalsolution\\backendwebapi\\taskwebapi\\taskwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F257ADA0-6526-4D77-A93D-0F963DA579EC}|TaskWebApi\\TaskWebApi.csproj|solutionrelative:taskwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F257ADA0-6526-4D77-A93D-0F963DA579EC}|TaskWebApi\\TaskWebApi.csproj|c:\\interviewpreparation\\company\\becu\\finalsolution\\backendwebapi\\taskwebapi\\taskwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F257ADA0-6526-4D77-A93D-0F963DA579EC}|TaskWebApi\\TaskWebApi.csproj|solutionrelative:taskwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C4865B-A3C4-433F-AE79-95B727559298}|TaskService.Tests\\TaskService.Tests.csproj|c:\\interviewpreparation\\company\\becu\\finalsolution\\backendwebapi\\taskwebapi\\taskservice.tests\\taskservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C4865B-A3C4-433F-AE79-95B727559298}|TaskService.Tests\\TaskService.Tests.csproj|solutionrelative:taskservice.tests\\taskservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F257ADA0-6526-4D77-A93D-0F963DA579EC}|TaskWebApi\\TaskWebApi.csproj|c:\\interviewpreparation\\company\\becu\\finalsolution\\backendwebapi\\taskwebapi\\taskwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F257ADA0-6526-4D77-A93D-0F963DA579EC}|TaskWebApi\\TaskWebApi.csproj|solutionrelative:taskwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F257ADA0-6526-4D77-A93D-0F963DA579EC}|TaskWebApi\\TaskWebApi.csproj|c:\\interviewpreparation\\company\\becu\\finalsolution\\backendwebapi\\taskwebapi\\taskwebapi\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F257ADA0-6526-4D77-A93D-0F963DA579EC}|TaskWebApi\\TaskWebApi.csproj|solutionrelative:taskwebapi\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F257ADA0-6526-4D77-A93D-0F963DA579EC}|TaskWebApi\\TaskWebApi.csproj|c:\\interviewpreparation\\company\\becu\\finalsolution\\backendwebapi\\taskwebapi\\taskwebapi\\interfaces\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F257ADA0-6526-4D77-A93D-0F963DA579EC}|TaskWebApi\\TaskWebApi.csproj|solutionrelative:taskwebapi\\interfaces\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F257ADA0-6526-4D77-A93D-0F963DA579EC}|TaskWebApi\\TaskWebApi.csproj|c:\\interviewpreparation\\company\\becu\\finalsolution\\backendwebapi\\taskwebapi\\taskwebapi\\dto\\updatetaskrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F257ADA0-6526-4D77-A93D-0F963DA579EC}|TaskWebApi\\TaskWebApi.csproj|solutionrelative:taskwebapi\\dto\\updatetaskrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F257ADA0-6526-4D77-A93D-0F963DA579EC}|TaskWebApi\\TaskWebApi.csproj|c:\\interviewpreparation\\company\\becu\\finalsolution\\backendwebapi\\taskwebapi\\taskwebapi\\dto\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F257ADA0-6526-4D77-A93D-0F963DA579EC}|TaskWebApi\\TaskWebApi.csproj|solutionrelative:taskwebapi\\dto\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F257ADA0-6526-4D77-A93D-0F963DA579EC}|TaskWebApi\\TaskWebApi.csproj|c:\\interviewpreparation\\company\\becu\\finalsolution\\backendwebapi\\taskwebapi\\taskwebapi\\dto\\userstaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F257ADA0-6526-4D77-A93D-0F963DA579EC}|TaskWebApi\\TaskWebApi.csproj|solutionrelative:taskwebapi\\dto\\userstaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F257ADA0-6526-4D77-A93D-0F963DA579EC}|TaskWebApi\\TaskWebApi.csproj|c:\\interviewpreparation\\company\\becu\\finalsolution\\backendwebapi\\taskwebapi\\taskwebapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F257ADA0-6526-4D77-A93D-0F963DA579EC}|TaskWebApi\\TaskWebApi.csproj|solutionrelative:taskwebapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F257ADA0-6526-4D77-A93D-0F963DA579EC}|TaskWebApi\\TaskWebApi.csproj|c:\\interviewpreparation\\company\\becu\\finalsolution\\backendwebapi\\taskwebapi\\taskwebapi\\taskwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F257ADA0-6526-4D77-A93D-0F963DA579EC}|TaskWebApi\\TaskWebApi.csproj|solutionrelative:taskwebapi\\taskwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F257ADA0-6526-4D77-A93D-0F963DA579EC}|TaskWebApi\\TaskWebApi.csproj|c:\\interviewpreparation\\company\\becu\\finalsolution\\backendwebapi\\taskwebapi\\taskwebapi\\models\\taskstatusupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F257ADA0-6526-4D77-A93D-0F963DA579EC}|TaskWebApi\\TaskWebApi.csproj|solutionrelative:taskwebapi\\models\\taskstatusupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskWebApi",
+              "DocumentMoniker": "C:\\InterviewPreparation\\Company\\Becu\\FinalSolution\\BackendWebAPI\\TaskWebApi\\TaskWebApi\\TaskWebApi.csproj",
+              "RelativeDocumentMoniker": "TaskWebApi\\TaskWebApi.csproj",
+              "ToolTip": "C:\\InterviewPreparation\\Company\\Becu\\FinalSolution\\BackendWebAPI\\TaskWebApi\\TaskWebApi\\TaskWebApi.csproj",
+              "RelativeToolTip": "TaskWebApi\\TaskWebApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T03:33:03.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskServiceTests.cs",
+              "DocumentMoniker": "C:\\InterviewPreparation\\Company\\Becu\\FinalSolution\\BackendWebAPI\\TaskWebApi\\TaskService.Tests\\TaskServiceTests.cs",
+              "RelativeDocumentMoniker": "TaskService.Tests\\TaskServiceTests.cs",
+              "ToolTip": "C:\\InterviewPreparation\\Company\\Becu\\FinalSolution\\BackendWebAPI\\TaskWebApi\\TaskService.Tests\\TaskServiceTests.cs",
+              "RelativeToolTip": "TaskService.Tests\\TaskServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T01:36:16.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersTaskDto.cs",
+              "DocumentMoniker": "C:\\InterviewPreparation\\Company\\Becu\\FinalSolution\\BackendWebAPI\\TaskWebApi\\TaskWebApi\\DTO\\UsersTaskDto.cs",
+              "RelativeDocumentMoniker": "TaskWebApi\\DTO\\UsersTaskDto.cs",
+              "ToolTip": "C:\\InterviewPreparation\\Company\\Becu\\FinalSolution\\BackendWebAPI\\TaskWebApi\\TaskWebApi\\DTO\\UsersTaskDto.cs",
+              "RelativeToolTip": "TaskWebApi\\DTO\\UsersTaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T02:56:26.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\InterviewPreparation\\Company\\Becu\\FinalSolution\\BackendWebAPI\\TaskWebApi\\TaskWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskWebApi\\appsettings.json",
+              "ToolTip": "C:\\InterviewPreparation\\Company\\Becu\\FinalSolution\\BackendWebAPI\\TaskWebApi\\TaskWebApi\\appsettings.json",
+              "RelativeToolTip": "TaskWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-28T02:00:50.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\InterviewPreparation\\Company\\Becu\\FinalSolution\\BackendWebAPI\\TaskWebApi\\TaskWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "TaskWebApi\\Program.cs",
+              "ToolTip": "C:\\InterviewPreparation\\Company\\Becu\\FinalSolution\\BackendWebAPI\\TaskWebApi\\TaskWebApi\\Program.cs",
+              "RelativeToolTip": "TaskWebApi\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T02:00:43.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\InterviewPreparation\\Company\\Becu\\FinalSolution\\BackendWebAPI\\TaskWebApi\\TaskWebApi\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "TaskWebApi\\Services\\TaskService.cs",
+              "ToolTip": "C:\\InterviewPreparation\\Company\\Becu\\FinalSolution\\BackendWebAPI\\TaskWebApi\\TaskWebApi\\Services\\TaskService.cs",
+              "RelativeToolTip": "TaskWebApi\\Services\\TaskService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T01:58:23.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\InterviewPreparation\\Company\\Becu\\FinalSolution\\BackendWebAPI\\TaskWebApi\\TaskWebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TaskWebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\InterviewPreparation\\Company\\Becu\\FinalSolution\\BackendWebAPI\\TaskWebApi\\TaskWebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TaskWebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-28T04:16:50.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\InterviewPreparation\\Company\\Becu\\FinalSolution\\BackendWebAPI\\TaskWebApi\\TaskWebApi\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TaskWebApi\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\InterviewPreparation\\Company\\Becu\\FinalSolution\\BackendWebAPI\\TaskWebApi\\TaskWebApi\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TaskWebApi\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T04:59:52.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\InterviewPreparation\\Company\\Becu\\FinalSolution\\BackendWebAPI\\TaskWebApi\\TaskWebApi\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "TaskWebApi\\DTO\\UserDto.cs",
+              "ToolTip": "C:\\InterviewPreparation\\Company\\Becu\\FinalSolution\\BackendWebAPI\\TaskWebApi\\TaskWebApi\\DTO\\UserDto.cs",
+              "RelativeToolTip": "TaskWebApi\\DTO\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T03:01:28.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskDto.cs",
+              "DocumentMoniker": "C:\\InterviewPreparation\\Company\\Becu\\FinalSolution\\BackendWebAPI\\TaskWebApi\\TaskWebApi\\DTO\\TaskDto.cs",
+              "RelativeDocumentMoniker": "TaskWebApi\\DTO\\TaskDto.cs",
+              "ToolTip": "C:\\InterviewPreparation\\Company\\Becu\\FinalSolution\\BackendWebAPI\\TaskWebApi\\TaskWebApi\\DTO\\TaskDto.cs",
+              "RelativeToolTip": "TaskWebApi\\DTO\\TaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T03:03:00.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\InterviewPreparation\\Company\\Becu\\FinalSolution\\BackendWebAPI\\TaskWebApi\\TaskWebApi\\Interfaces\\ITaskService.cs",
+              "RelativeDocumentMoniker": "TaskWebApi\\Interfaces\\ITaskService.cs",
+              "ToolTip": "C:\\InterviewPreparation\\Company\\Becu\\FinalSolution\\BackendWebAPI\\TaskWebApi\\TaskWebApi\\Interfaces\\ITaskService.cs",
+              "RelativeToolTip": "TaskWebApi\\Interfaces\\ITaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T01:25:10.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateTaskRequestDto.cs",
+              "DocumentMoniker": "C:\\InterviewPreparation\\Company\\Becu\\FinalSolution\\BackendWebAPI\\TaskWebApi\\TaskWebApi\\DTO\\UpdateTaskRequestDto.cs",
+              "RelativeDocumentMoniker": "TaskWebApi\\DTO\\UpdateTaskRequestDto.cs",
+              "ToolTip": "C:\\InterviewPreparation\\Company\\Becu\\FinalSolution\\BackendWebAPI\\TaskWebApi\\TaskWebApi\\DTO\\UpdateTaskRequestDto.cs",
+              "RelativeToolTip": "TaskWebApi\\DTO\\UpdateTaskRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T04:51:47.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaskWebApi.http",
+              "DocumentMoniker": "C:\\InterviewPreparation\\Company\\Becu\\FinalSolution\\BackendWebAPI\\TaskWebApi\\TaskWebApi\\TaskWebApi.http",
+              "RelativeDocumentMoniker": "TaskWebApi\\TaskWebApi.http",
+              "ToolTip": "C:\\InterviewPreparation\\Company\\Becu\\FinalSolution\\BackendWebAPI\\TaskWebApi\\TaskWebApi\\TaskWebApi.http",
+              "RelativeToolTip": "TaskWebApi\\TaskWebApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-28T01:59:26.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaskStatusUpdateRequest.cs",
+              "DocumentMoniker": "C:\\InterviewPreparation\\Company\\Becu\\FinalSolution\\BackendWebAPI\\TaskWebApi\\TaskWebApi\\Models\\TaskStatusUpdateRequest.cs",
+              "RelativeDocumentMoniker": "TaskWebApi\\Models\\TaskStatusUpdateRequest.cs",
+              "ToolTip": "C:\\InterviewPreparation\\Company\\Becu\\FinalSolution\\BackendWebAPI\\TaskWebApi\\TaskWebApi\\Models\\TaskStatusUpdateRequest.cs",
+              "RelativeToolTip": "TaskWebApi\\Models\\TaskStatusUpdateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T05:02:21.719Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

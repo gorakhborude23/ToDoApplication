@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "e5n5KfqgdqPnWr6EOaqWbeXuKj3SI48ZZoeDXw8zsGU=",
+  "Source": "TaskWebApi",
+  "BasePath": "_content/TaskWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
