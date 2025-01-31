@@ -1,0 +1,9 @@
+/Solution/BackendWebAPI/TaskWebApi/.vs
+/Solution/BackendWebAPI/TaskWebApi/.vs
+*.v2
+*.vsidx
+*.dll
+/Solution/BackendWebAPI/TaskWebApi/TaskService.Tests/bin
+/Solution/BackendWebAPI/TaskWebApi/TaskService.Tests/bin/Debug
+/Solution/BackendWebAPI/TaskWebApi/TaskService.Tests/bin/Release
+/Solution/FrontendApp/task-management-app/node_modules/.cache

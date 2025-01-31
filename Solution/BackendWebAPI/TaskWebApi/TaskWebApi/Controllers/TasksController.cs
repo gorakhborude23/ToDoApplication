@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using TaskWebApi.DTO;
-using TaskWebApi.Interface;
+using TaskWebApi.Services;
 
 namespace TaskWebApi.Controllers
 {
@@ -16,24 +16,38 @@ namespace TaskWebApi.Controllers
         }
 
         [HttpGet("{userId}")]
-        public IActionResult GetTasks(int userId)
+        public async Task<ActionResult<UsersTaskDto>> GetTasks(int userId)
         {
-            var usersTaskDto = _taskService.GetTasks(userId);
-            if (usersTaskDto == null)
-                return NotFound($"User with ID {userId} not found.");
+            try
+            {
+                var usersTaskDto = await _taskService.GetTasksByUserIdAsync(userId);
+                if (usersTaskDto == null)
+                    return NotFound($"User with ID {userId} not found.");
 
-            return Ok(usersTaskDto);
+                return Ok(usersTaskDto);
+            }
+            catch (Exception ex)
+            {
+                return NotFound(new { message = ex.Message });
+            }
 
         }
 
         [HttpPut]
-        public IActionResult UpdateTaskStatus([FromBody] UpdateTaskRequestDto request)
+        public async Task<ActionResult> UpdateTaskStatus([FromBody] UpdateTaskRequestDto request)
         {
-            var success = _taskService.UpdateTaskStatus(request.UserId, request.TaskId, request.NewStatus);
-            if (!success)
-                return BadRequest(new { Message = "Task not found or invalid update." });
+            try
+            {
+                var success = await _taskService.UpdateTaskStatusAsync(request);
+                if (!success)
+                    return BadRequest(new { Message = "Task not found or invalid update." });
 
-            return Ok(new { Message = "Task status updated successfully." });
+                return Ok(new { Message = "Task status updated successfully." });
+            }
+            catch (Exception ex)
+            {
+                return NotFound(new { message = ex.Message });
+            }
         }
     }
 

@@ -2,8 +2,8 @@
 {
     public class UsersTaskDto
     {
-        public UserDto User { get; set; }
-        public List<TaskDto> Tasks { get; set; }
+        public UserDto? User { get; set; }
+        public List<TaskDto>? Tasks { get; set; }
 
     }
 }
